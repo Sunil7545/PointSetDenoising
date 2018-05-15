@@ -50,5 +50,6 @@ Instructions:
     8. After that this button color will change and algorithm started.
     
     9. current status of the algorithm is displayed in lower left corner of the smoothing window.
+   
 
-    
+Output mesh is reconstructed using "ball pivoting algorithm " (in the article). Here, we use the models with intial mesh from geometry to increase visibility of different features. As mesh is from original surface, the output may have some artifacts because we are not optimizing mesh quality during the point set denoising.  
