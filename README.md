@@ -25,13 +25,26 @@ corners) and non-feature (planar) vertices. Finally, we show our method to be ro
 and comparable to state-of-the-art methods in several experiments.
 
 
-Requirement:
+# Requirement:
 
     Windows 7 or newer.
-    
-Instructions:
 
-    To compile the provided sourec code:
+# Instructions general point set denoising
+   To compile the provided source code:
+   
+   1. Clone the whole repository.
+   
+   2. Navigate to "point_set_denoising_genral" folder
+   
+   3. Double click on "launcherCube.bat", this will open the GUI of PSD (Point Set Denoising) software.
+   
+   4. Click on "Browse" to load new data.
+   
+   5. Click on "Point Set Denoising" to perform the denoising operation.
+    
+# Instructions for data sepcific (mainly for http://www.replicabilitystamp.org/):
+
+    To compile the provided source code:
     
     1. Please extract the folder data.7z.
     
