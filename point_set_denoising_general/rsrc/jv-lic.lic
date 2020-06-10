@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE jv-lic SYSTEM "http://www.javaview.de/rsrc/jv-lic.dtd">
+<jv-lic>
+	<meta generator="JavaView License Generator v.1.00"/>
+	<meta date="Wed Jun 10 12:11:53 2020"/>
+	<version type="release">1.00</version>
+	<title>JavaView License File</title>
+	<license type="evaluation" usage="single">
+		<license-id>5285.1604.3936.7221</license-id>
+		<license-expire>2020-12-31</license-expire>
+		<licensee>
+			<firstname>Sunil</firstname>
+			<lastname>Yadav</lastname>
+			<affiliation>
+				<organization>Freie Universitaet Berlin</organization>
+				<address>
+					<line>Germany</line>
+				</address>
+			</affiliation>
+			<email>sunil.yadav@fu-berlin.de</email>
+			<url></url>
+		</licensee>
+	</license>
+</jv-lic>
+

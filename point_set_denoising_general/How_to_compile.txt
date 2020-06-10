@@ -1,0 +1,4 @@
+// Run the following command on a terminal 
+
+java -classpath library\javaview.jar;library\jvx.jar;lib
+rary\kdtree.jar;library\vgpapp.jar;bin PaPointSetProc

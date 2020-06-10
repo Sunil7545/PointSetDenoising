@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE jv-rsrc SYSTEM "http://www.javaview.de/rsrc/jv-rsrc.dtd">
+<jv-rsrc>
+	<meta generator="JavaView v4.51.002"/>
+	<meta dtd="0.99.012"/>
+	<meta date="Mon Aug 10 12:03:38 CEST 2015"/>
+	<version type="beta">0.99.073</version>
+	<title>Preferences Faniry</title>
+	<authors>
+		<author>
+			<firstname>Faniry</firstname>
+			<lastname>Razafindrazaka</lastname>
+			<affiliation>
+				<organization>Fu Berlin</organization>
+				<address>
+					<line>Arnimalle 6</line>
+					<line>14195 Berlin</line>
+					<line>Germany</line>
+					<line>Germany</line>
+				</address>
+			</affiliation>
+			<email>faniry@zedat.fu-berlin.de</email>
+			<url/>
+		</author>
+	</authors>
+	<preferences>
+		<directory type="working">C:\Users\faniry\workspaceNew\Base\</directory>
+		<directory type="bug">C:\Users\faniry\workspaceNew\Base\bug\</directory>
+		<directory type="validate">C:\Users\faniry\workspaceNew\Base\validate\</directory>
+		<directory type="models">C:\Users\faniry\workspaceNew\Base\models\</directory>
+		<directory type="loaders"/>
+		<directory type="menu">devFR.geom,devWerth.geom</directory>
+		<display largeModel="disabled" fastDisplay="enabled" instanceSharing="enabled"/>
+		<loader autoIdentify="enabled" autoNeighbour="enabled" autoNormals="enabled"/>
+		<workshop backup="enabled"/>
+	</preferences>
+</jv-rsrc>
