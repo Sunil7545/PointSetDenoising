@@ -42,7 +42,7 @@ and comparable to state-of-the-art methods in several experiments.
    
    5. Click on "Point Set Denoising" to perform the denoising operation.
     
-# Instructions for data sepcific (mainly for http://www.replicabilitystamp.org/):
+# Instructions for sepecific data (mainly for http://www.replicabilitystamp.org/):
 
     To compile the provided source code:
     
